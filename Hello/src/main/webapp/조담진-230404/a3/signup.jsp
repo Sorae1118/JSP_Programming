@@ -4,11 +4,15 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" href="index.css" type="text/css">
 <title>회원 가입</title>
 </head>
 <body>
 <form action="signup_output.jsp" method="post">
-	<table style="margin: auto; padding: 100px">
+	<div id="title">
+		<strong>회원 가입</strong>
+	</div>
+	<table class="table">
 	<thead>
 		<tr>
 			<th>항목</th>

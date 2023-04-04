@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+#title {
+	margin: 50px;
+	text-align: center;
+	font-size: 3rem;
+}
+
+.table {
+	border-collapse: collapse;
+	margin: auto; 
+	border-top: 3px solid #ddd;
+}
+
+.table th {
+	width: 150px;
+	padding: 10px;
+	color: #168;
+	border-bottom: 3px solid #ddd;
+	text-align: left;
+}
+
+.table td {
+	padding: 10px;
+	border-bottom: 1px dashed #ddd;
+}
+
