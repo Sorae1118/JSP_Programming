@@ -1,0 +1,36 @@
+@charset "UTF-8";
+ 
+body { background: #fff; }
+
+.title {
+	margin: 100px;
+	text-align: center;
+}
+
+.title strong {
+	font-size: 3rem;
+}
+
+.blueone {
+	border-collapse: collapse;
+  	margin:auto;
+}  
+
+.blueone th {
+	width: 300px;
+  	padding: 10px;
+  	color: #168;
+  	border-bottom: 3px solid #168;
+  	text-align: left;
+}
+
+.blueone td {
+  	padding: 10px;
+  	border-bottom: 1px solid #ddd;
+}
+
+#textarea {
+	width: 900px;
+}
+
+
